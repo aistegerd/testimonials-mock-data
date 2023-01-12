@@ -6,9 +6,9 @@
     "academy": "Sourcery for Testers Graduate"
   },
   {
-    "name": "Laura Hales",
+    "name": "Meri Navickė",
     "photo": "https://randomuser.me/api/portraits/women/1.jpg",
-    "message": "During the 3 month academy we managed to learn not only the basics, but also to create advanced web pages. I am glad that I chose to apply and challenge myself. I would definitely recommend to apply for anyone who’s interested in front-end.",
+    "message": "I highly recommend Sourcery Academy for anyone looking to learn front-end development. The courses and lectures are top-notch and cover everything from the basics to advanced techniques. The use of React in the curriculum was particularly helpful for me as a beginner, as it allowed me to quickly understand and build complex pages and components. I went into the program with very little experience, but now I feel confident and capable in my abilities. A big thanks to the Sourcery team!",
     "academy": "Sourcery for Front-End Graduate"
   },
   {
@@ -52,23 +52,23 @@
   },
 
   {
-    "name": "Juri Gian",
+    "name": "Aidas Buivydas",
     "photo": "https://randomuser.me/api/portraits/men/4.jpg",
-    "message": "Sourcery for Front-End improved my HTML/CSS and JS skills and taught me how to build a successful project working with a team.",
+    "message": "Sourcery Academy's front-end courses are straight fire! And did you know the programmer's code look so clean? Because it had only the 'nice-to-have' comments.",
     "academy": "Sourcery for Front-End Graduate"
   },
 
   {
-    "name": "Kinga Cichewicz",
+    "name": "Albertas Rinkevičius",
     "photo": "https://randomuser.me/api/portraits/women/2.jpg",
     "message": "I found the lectures very useful especially when developing an actual project alongside. Just after 3 months I’ve broadened my JS and Accessibility skills and shipped our product. I am glad that I’ve challenged myself by applying to SFE.",
     "academy": "Sourcery for Front-End Graduate"
   },
 
   {
-    "name": "Sofia Oliveira",
+    "name": "Aistė Gerdzevičiūtė",
     "photo": "https://randomuser.me/api/portraits/women/3.jpg",
-    "message": "Sourcery for Front-End helped me to become a better developer.",
+    "message": "Sourcery Academy and was extremely impressed with the quality of the instruction and resources provided. The front-end development course was thorough and covered a wide range of topics, from the basics to advanced techniques.",
     "academy": "Sourcery for Front-End Graduate"
   }
 ]
